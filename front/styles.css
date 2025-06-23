@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #1e1e2f;
+  background: var(--blue);
   color: #e0e0e0;
   min-height: 100vh;
   display: flex;
