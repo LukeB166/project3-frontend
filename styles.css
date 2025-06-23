@@ -21,7 +21,7 @@ body {
 .container {
   max-width: 900px;
   width: 100%;
-  background: #2a2a40;
+  background-color: var(--blue);
   border-radius: 12px;
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
   padding: 30px 40px;
